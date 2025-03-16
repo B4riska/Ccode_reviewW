@@ -9,25 +9,24 @@
 ### Как установить?
 ###### 1. Убедитесь, что у вас установлен Docker, а Docker Desktop(Engine) запущен. 
 ###### 2. Клонируйте репозиторий: 
-    ```bash
+```bash
     git clone https://github.com/fel1k2/Python-MIPT.git
-    ```
+```
 ###### 3. Перейдите в директорию проекта:
-    ```bash
+```bash
     cd Ccode_reviewW
-    ```
+```
 
 ###### 4. Соберите и запустите контейнеры Docker:
-    ```bash
+```bash
     docker-compose up --build
-    ```
+```
 
 ###### 5. Откройте веб-приложение: Перейдите в браузере по адресу **http://127.0.0.1:8000/**
 ### Технологии
-
-Python
-Flask
-SQLite
-Docker
+- Python
+- Flask
+- SQLite
+- Docker
 
 
